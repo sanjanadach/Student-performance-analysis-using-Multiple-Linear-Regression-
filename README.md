@@ -2,7 +2,7 @@
 
 This project demonstrates how to analyze and predict student performance using a Multiple Linear Regression model. The dataset includes various factors such as hours of study, sleep time, extracurricular activities, and more, to predict a student's performance index.
 
-🚀 Project Overview
+🚀 Project Overview:
 
 Goal: To build a regression model that predicts a student's performance index based on multiple features.
 
