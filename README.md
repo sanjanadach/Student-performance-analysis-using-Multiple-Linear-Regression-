@@ -1,14 +1,14 @@
-📊 Student Performance Prediction using Multiple Linear Regression
+## 📊 Student Performance Prediction using Multiple Linear Regression
 
 This project demonstrates how to analyze and predict student performance using a Multiple Linear Regression model. The dataset includes various factors such as hours of study, sleep time, extracurricular activities, and more, to predict a student's performance index.
 
-🚀 Project Overview:
+## 🚀 Project Overview:
 
 Goal: To build a regression model that predicts a student's performance index based on multiple features.
 
 Dataset: Student_Performance.csv (from Kaggle).
 
-Key Steps:
+# Key Steps:
 
 ->Data preprocessing and feature engineering.
 
@@ -22,7 +22,7 @@ Key Steps:
 
 ->Evaluating the model with R2 Score and Mean Absolute Error.
 
-🛠️ Tools & Libraries Used:
+## 🛠️ Tools & Libraries Used:
 
 1)Python 🐍
 
@@ -36,12 +36,12 @@ Key Steps:
 
 6)seaborn
 
-📈 Results:
+## 📈 Results:
 
 ->R² Score: Measures how well the model fits the data.
 
 ->Mean Absolute Error: Evaluates the average error in predictions.
 
-💡 Insights:
+## 💡 Insights:
 
 Visualizations and correlation heatmaps revealed which features have the strongest relationship with the performance index, helping to build a more accurate model.
